@@ -2,6 +2,7 @@ clear
 
 a = 1
 b = 2
+whos a
 whos
 
 save workspace_tmp.mat
